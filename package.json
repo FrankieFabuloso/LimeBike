@@ -1,0 +1,15 @@
+{
+  "name": "limebike",
+  "version": "1.0.0",
+  "description": "Initial coding exercise.",
+  "main": "concurrentRides.js",
+  "scripts": {
+    "test": "mocha ./tests/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
